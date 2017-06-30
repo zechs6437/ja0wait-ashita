@@ -1,7 +1,7 @@
 --[[
 * MIT License
 * 
-* Copyright (c) 2007 zechs6437 [github.com/zechs6437]
+* Copyright (c) 2017 zechs6437 [github.com/zechs6437]
 * 
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
